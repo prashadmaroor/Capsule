@@ -63,26 +63,29 @@ font-size:22;
     margin:10px;
     }
 
-    #logo{
-      background-color:#3f3f3f;
-            color:#d5d5d5;
-            padding:2rem;
-    }
 
     button:hover{
         background-color:green;
         }
-    
-    .hrTag{
-          border-top: 1px solid #d5d5d5;
-          width:100%;
-          margin-top:1rem;
-          margin-bottom:1rem;
-        }    
+ 
           
-          footer{
-            background-color:#3f3f3f;
-            color:#d5d5d5;
-            padding-top:2rem;
-          }
-          
+ header{
+   background-color:#20B2AA;
+   color:white; 
+   padding:10px;
+   font-size:38px;
+ }
+ 
+ footer{
+   background-color:#3f3f3f;
+   color:#d5d5d5;
+   padding-top:2rem;
+ }
+
+ .hrTag{
+   border-top: 1px solid #d5d5d5;
+   width:75%;
+   margin-top:0.8rem;
+   margin-bottom:1rem;
+ }
+ 
